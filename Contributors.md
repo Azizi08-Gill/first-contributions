@@ -1265,6 +1265,7 @@
 - [Sachini Sahasra](https://github.com/Sahasra0108)
 - [Sinuhe Velazquez](https://github.com/Sinuhe135)
 - [Kalash](https://github.com/Kalash-C1)
+- [Azizi_Gill](https://github.com/Azizi08-Gill)
 - [Siyu Fang](https://github.com/FsyJerryDev)
 - [B1lol-dev](https://github.com/b1lol-dev)
 - [Kavya Yamsani](https://github.com/ykavya5)
